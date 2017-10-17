@@ -29,7 +29,7 @@ const things = {
 }
 ```
 
-And possibly a similar syntax for destructuring (with [rfc-js-destructuring-function-call](https://github.com/AndersDJohnson/rfc-js-destructuring-function-call)):
+And possibly a similar syntax for destructuring (with [rfc-js-destructuring-function-call](https://github.com/AndersDJohnson/rfc-js-destructuring-function-call) and [rfc-js-object-shorthand-path](https://github.com/AndersDJohnson/rfc-js-object-shorthand-path)):
 
 ```js
 const {
