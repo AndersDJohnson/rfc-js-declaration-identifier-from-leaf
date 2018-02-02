@@ -13,7 +13,7 @@ equivalent to:
 const names = myObject.names()
 ```
 
-And a similar syntax for object creation:
+And a similar syntax for object creation (see [rfc-js-object-shorthand-path](https://github.com/AndersDJohnson/rfc-js-object-shorthand-path)):
 
 ```js
 const things = {
